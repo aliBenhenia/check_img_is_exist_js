@@ -1,7 +1,7 @@
 # Image Existence Checker
 
 A simple JavaScript function to check if an image exists by handling the `onload` and `onerror` events.
- 
+  
 ## How to Use
 
 1. Copy the `checkImage` function into your JavaScript code.  
